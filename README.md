@@ -1,7 +1,7 @@
 # Customer Segmentation for Targeted Marketing
-<div style="display: flex; gap: 20px; flex-wrap: nowrap; justify-content: left;">
-  <img src="images/main_page.png" alt="Main Page" width="600" height="auto">
-  <img src="images/segmentation.png" alt="Segmentation" width="600" height="auto">
+<div style="display: flex; gap: 20px; flex-wrap: nowrap; justify-content: center;">
+  <img src="images/main_page.png" alt="Main Page" width="800" height="auto">
+  <img src="images/segmentation.png" alt="Segmentation" width="800" height="auto">
 </div>
 
 
