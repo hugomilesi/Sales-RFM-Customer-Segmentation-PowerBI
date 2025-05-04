@@ -1,5 +1,9 @@
 # Customer Segmentation for Targeted Marketing
-<img src="images/newplot.png" alt="Customer Segments 3D Scatter Plot" width="1000" height="auto">
+<div style="display: flex; gap: 20px; flex-wrap: nowrap; justify-content: left;">
+  <img src="images/main_page.png" alt="Main Page" width="600" height="auto">
+  <img src="images/segmentation.png" alt="Segmentation" width="600" height="auto">
+</div>
+
 
 This project segments customers of an online CRM sales platform using RFM (Recency, Frequency, Monetary) analysis and K-Means clustering to design targeted marketing campaigns.
 
@@ -23,7 +27,7 @@ This project segments customers of an online CRM sales platform using RFM (Recen
 - Standardized RFM values and used Elbow Method/Silhouette Score to select k=4.
 - Identified segments: High-Value, Loyal Low-Spend, At-Risk, Inactive.
 
-<div style="display: flex; gap: 20px; flex-wrap: nowrap; justify-content: center;">
+<div style="display: flex; gap: 20px; flex-wrap: nowrap; justify-content: left;">
   <img src="images/elbow_plot.png" alt="3D Cluster Scatter" width="600" height="400">
   <img src="images/silhouette_plot.png" alt="Silhouette Score Plot" width="600" height="400">
 </div>
@@ -34,7 +38,7 @@ This project segments customers of an online CRM sales platform using RFM (Recen
 - **Monetary**: Total spending.
 - Assigned scores (1–4) using quintiles.
 
-<div style="display: flex; gap: 20px; flex-wrap: nowrap; justify-content: center;">
+<div style="display: flex; gap: 20px; flex-wrap: nowrap; justify-content: ;left;">
   <img src="images/heatmap.png" alt="RFM Heatmap" width="600" height="auto">
   <img src="images/newplot.png" alt="Elbow Plot" width="600" height="auto">
 </div>
